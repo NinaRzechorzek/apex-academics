@@ -30,3 +30,4 @@
 	- Jason Young (Academic FY, Oxford)
 - Apex 6 (2022) 
 	- No-one from Apex 6 has had time to start an academic career yet!
+ - Apex 7 
