@@ -23,7 +23,7 @@
 	- Kirsten Scott PhD (University of Cambridge and AstraZeneca, Cambridge)
 	- Daniel Hammett PhD (University of Sheffield)
 - Apex Kilimanjaro (2009)
-	- James Varley PhD
+	- James Varley PhD (Imperial College)
 - Apex 4 (2015)
 	- Sandy (Alexander) Jackson - NIHR Doctoral Fellow (University of Southampton)
 - Apex 5 (2017)
