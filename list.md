@@ -9,7 +9,7 @@
 	- John Somner MD (Cambridge)
 	- Kenny Baillie PhD (Professor of Experimental Medicine, University of Edinburgh)
 - Apex 2 (2003)
-	- Nina Rzechorzek Phd (MRC Clinician Scientist, MRC Laboratory of Molecular Biology, Cambridge)
+	- Nina Rzechorzek PhD (MRC Clinician Scientist, MRC Laboratory of Molecular Biology, Cambridge)
 	- Matt Wilkes PhD (Chief Medical Officer)
 	- Mark Toshner PhD (Senior Lecturer, University of Cambridge)
 	- Olivia Swann PhD (University of Edinburgh)
