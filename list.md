@@ -25,6 +25,6 @@
 - Apex Kilimanjaro (2009)
 	- James Varley PhD
 - Apex 4 (2015)
-	- Sandy Jackson - NIHR Academic Clinical Fellow (University of Southampton)
+	- Sandy (Alexander) Jackson - NIHR Doctoral Fellow (University of Southampton)
 - Apex 5 (2017)
 	- Jason Young (Academic FY, Oxford)
